@@ -31,3 +31,7 @@ Tips
 Always run lupdate before lrelease to ensure your translation files are up to date.
 Remember to include the compiled .qm files with your application for runtime language switching.
 For more information and advanced usage, refer to the Qt Linguist documentation.
+
+
+
+![image](https://github.com/jayanth100798/Qt_Linguist_Demo_APP/assets/99641403/72179bb2-1404-4005-b90d-d79e1f78120b)
