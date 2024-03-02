@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translate/french.qm</file>
+        <file>translate/french.ts</file>
+        <file>translate/german.qm</file>
+        <file>translate/german.ts</file>
+        <file>translate/hindi.qm</file>
+        <file>translate/hindi.ts</file>
+        <file>translate/italian.qm</file>
+        <file>translate/italian.ts</file>
+        <file>translate/portuguees.qm</file>
+        <file>translate/portuguees.ts</file>
+        <file>translate/russian.qm</file>
+        <file>translate/russian.ts</file>
+        <file>translate/spanish.qm</file>
+        <file>translate/spanish.ts</file>
+    </qresource>
+</RCC>
